@@ -15,4 +15,4 @@ const plusOne = function (digits) {
   return digits
 };
 
-console.log(plusOne([1, 2, 3])) // [1, 2, 4]
+// console.log(plusOne([1, 2, 3])) // [1, 2, 4]
