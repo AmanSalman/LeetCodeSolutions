@@ -9,5 +9,4 @@ var sortArray = function(nums) {
   return nums
 };
 
-
 console.log(sortArray([-2,3,-5]))
