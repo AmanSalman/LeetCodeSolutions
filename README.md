@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
