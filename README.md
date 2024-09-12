@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -68,4 +72,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
