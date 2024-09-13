@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Union Find
 |  |
 | ------- |
@@ -72,5 +74,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
