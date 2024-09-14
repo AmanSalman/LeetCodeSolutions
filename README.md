@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
