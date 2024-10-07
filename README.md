@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -107,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
