@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +99,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
