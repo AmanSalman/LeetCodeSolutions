@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -42,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -87,4 +92,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
