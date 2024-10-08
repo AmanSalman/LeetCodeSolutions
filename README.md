@@ -126,5 +126,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [2110-employees-with-missing-information](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
