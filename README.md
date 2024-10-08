@@ -118,5 +118,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
 | [2110-employees-with-missing-information](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
