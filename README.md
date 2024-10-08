@@ -115,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+## Database
+|  |
+| ------- |
+| [2110-employees-with-missing-information](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2110-employees-with-missing-information) |
 <!---LeetCode Topics End-->
