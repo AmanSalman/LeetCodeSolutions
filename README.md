@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Database
 |  |
