@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -131,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0595-big-countries) |
 | [2110-employees-with-missing-information](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2110-employees-with-missing-information) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
