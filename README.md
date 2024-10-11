@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanSalman/LeetCode-My-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0268-missing-number) |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AmanSalman/LeetCodeSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Database
